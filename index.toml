@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "ee5e4efb631e54320a0326f69595c815ef6aa5fd27f2911a465811b592a0694c"
-
-[[files]]
 file = "background.png"
 hash = "e18f8520dd4433e05cdd5b71a8a5d500288de5d1c664f45aa06f1bd6758c7c63"
 
@@ -4674,10 +4670,6 @@ metafile = true
 file = "mods/yungs-bridges.pw.toml"
 hash = "2a06398075227d1fea776e7cc5dcce97f1242a53d7697252261f4d9c88d73a92"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "6e79ed1b14b7afe3b83aade86a9b5543fae29cb5ed27531a2e8483a3ee78f360"
 
 [[files]]
 file = "resourcepacks/bettervanillabuilding.pw.toml"
