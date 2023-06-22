@@ -1,0 +1,13 @@
+name = "BiomeTweaker"
+filename = "biometweaker-1.18.2-4.0.31.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "60c267feb31dd2677dfad5583868189de14b0aa0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4173472
+project-id = 228895

@@ -1,0 +1,13 @@
+name = "Created & Updated"
+filename = "CreatedAndUpdated.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7272c2b3495be8f73f4bbd569e63eb1bdc640c61"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4549192
+project-id = 656900

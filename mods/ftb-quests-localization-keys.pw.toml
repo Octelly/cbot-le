@@ -1,0 +1,13 @@
+name = "FTB Quests: Localization keys"
+filename = "FTB_Quest_Lang_Gen.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "be0a407b694a07e6f2d1008ca8f9cf4218852c5a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3910650
+project-id = 653663

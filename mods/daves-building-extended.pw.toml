@@ -1,0 +1,13 @@
+name = "Dave's Building Extended"
+filename = "dbExtended-1.18.2-5.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "40175138e477608673ba1c078dce0eba9acb7ba9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4329055
+project-id = 568645

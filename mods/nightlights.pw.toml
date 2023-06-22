@@ -1,0 +1,13 @@
+name = "Night Lights"
+filename = "nightlights_1.18.2_1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d6f2ea7d5ce028a03db4692cf04bbbe0e4b81a43"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4063045
+project-id = 651876

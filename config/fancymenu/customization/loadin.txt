@@ -1,0 +1,79 @@
+type = menu
+
+customization-meta {
+  identifier = de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen
+  randomgroup = 1
+  biggerthanwidth = 1100
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+  biggerthanheight = -1
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 228
+  width = 504
+  action = deep_customization_element:drippy_overlay_logo
+  actionid = 84dcc7ae-198f-498c-9e95-a2bc8b80ecf41679525058555
+  y = 189
+  height = 126
+}
+
+customization {
+  custom_color_hex = #2c1430
+  orientation = top-left
+  hidden = false
+  x = -1000000
+  width = 0
+  action = deep_customization_element:drippy_overlay_background
+  actionid = 6d2d32b4-5146-405c-bca8-57ea3f2231191679525058584
+  y = -1000000
+  height = 0
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 87
+  width = 428
+  action = deep_customization_element:drippy_overlay_progress_bar
+  actionid = b67fb59d-aafc-475d-a70f-a507ba1d5be11679525058585
+  y = 352
+  height = 10
+}
+
+customization {
+  path = kubejs/assets/kubejs/textures/images/logo.png
+  orientation = mid-centered
+  x = -283
+  width = 567
+  action = addtexture
+  actionid = 747914f5-1854-4385-b4e1-d18560fcc6bd1679525097162
+  y = -159
+  height = 320
+}
+
+customization {
+  orientation = mid-centered
+  basecolor = #ffff00
+  shadow = true
+  rotation = 20.0
+  scale = 1.0
+  refresh = false
+  vr:showif:oslinux = true
+  bouncing = true
+  vanilla-like = false
+  x = -238
+  actionid = 8bd0e0bc-b66e-4128-9d5d-67f7b38f78fa1679772944451
+  action = addsplash
+  y = 71
+  text = I use Arch BTW!
+}
+

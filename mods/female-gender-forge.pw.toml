@@ -1,0 +1,13 @@
+name = "Wildfire's Female Gender Mod (Forge)"
+filename = "[Forge] Wildfire Female Gender Mod-2.9.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e56b6f6d7c974c65ba6f519d99a66cd593e4cd13"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3920306
+project-id = 481655

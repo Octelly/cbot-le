@@ -1,0 +1,482 @@
+{
+	id: "1634333847CCE52A"
+	group: ""
+	order_index: 1
+	filename: "professions"
+	title: "&a Engineer's Magazine"
+	icon: {
+		id: "create:sand_paper"
+		Count: 1b
+		tag: {
+			Damage: 0
+		}
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [{
+		x: 10.0d
+		y: -1.5d
+		width: 21.0d
+		height: 11.0d
+		rotation: 0.0d
+		image: "kubejs:textures/gui/magazine.png"
+		hover: [ ]
+		click: ""
+		dev: false
+		corner: false
+	}]
+	quests: [
+		{
+			title: "Engineer's Magazine"
+			icon: "minecraft:oak_sign"
+			x: -1.0d
+			y: -2.0d
+			shape: "hexagon"
+			description: ["Here at &3Engineer's Magazine&r we provide the best employement oportunities for getting that bread, the works range from digging dirt to interstellar bounties."]
+			size: 2.0d
+			id: "36E02479368EAF04"
+			tasks: [{
+				id: "3FE411FC2A966816"
+				type: "checkmark"
+			}]
+		}
+		{
+			title: "Investors are Investing"
+			icon: "minecraft:book"
+			x: 2.5d
+			y: -2.5d
+			subtitle: "30 Silver"
+			description: [
+				"Write an application telling how will your organization change the world."
+				""
+				"&4Stream chat&f, tell your streamer to write an actual application instead of writing bogus and submitting."
+				""
+				"We raised the money, but also the standards."
+			]
+			id: "736FC31210F334F2"
+			tasks: [{
+				id: "7D2F867FD8A5A68A"
+				type: "item"
+				item: {
+					id: "minecraft:written_book"
+					Count: 1b
+					tag: { }
+				}
+				consume_items: true
+			}]
+			rewards: [{
+				id: "6C5F42C1888F0C63"
+				type: "item"
+				icon: { id: "thermal:silver_coin", Count: 32b }
+				team_reward: true
+				item: "thermal:silver_coin"
+				count: 30
+			}]
+		}
+		{
+			title: "Ultimate Bounty"
+			x: 16.5d
+			y: 1.5d
+			shape: "pentagon"
+			subtitle: "20 Gold"
+			description: ["This is the rarest of them all, every globe colection needs one of these"]
+			size: 1.5d
+			id: "30ED355F76F0A365"
+			tasks: [{
+				id: "186F15C15373C885"
+				type: "item"
+				item: "beyond_earth:glacio_globe"
+				consume_items: true
+			}]
+			rewards: [{
+				id: "1C0512EE817937AC"
+				type: "item"
+				item: "thermal:gold_coin"
+				count: 20
+			}]
+		}
+		{
+			title: "Blood Donation"
+			x: 8.5d
+			y: -1.0d
+			subtitle: "10 Silver"
+			description: ["Donate that goofy blood you leave in your smeltery"]
+			id: "17EAB8633782ADD9"
+			tasks: [{
+				id: "02A68A8169325CA3"
+				type: "fluid"
+				icon: "tconstruct:blood_bucket"
+				fluid: "tconstruct:flowing_blood"
+				amount: 4000L
+			}]
+			rewards: [{
+				id: "6C53BDAE1076F57C"
+				type: "item"
+				icon: { id: "thermal:silver_coin", Count: 10b }
+				item: "thermal:silver_coin"
+				count: 10
+			}]
+		}
+		{
+			title: "Used Rockets"
+			x: 12.0d
+			y: 1.5d
+			shape: "hexagon"
+			subtitle: "3 Gold"
+			description: ["Got an old rocket sitting in the corner? Sell it here!"]
+			size: 1.5d
+			id: "2E51181E7EC6B6E0"
+			tasks: [{
+				id: "71BEBCCC03A4B80C"
+				type: "item"
+				item: {
+					id: "beyond_earth:rocket_t1"
+					Count: 1b
+					tag: { }
+				}
+				consume_items: true
+			}]
+			rewards: [{
+				id: "3CF028056F7AE881"
+				type: "item"
+				icon: { id: "thermal:gold_coin", Count: 5b }
+				item: { id: "thermal:gold_coin", Count: 5b }
+				count: 5
+			}]
+		}
+		{
+			title: "Full Restock"
+			x: 6.5d
+			y: -1.0d
+			subtitle: "7 Gold"
+			description: ["A large bread producer needs a quick restock!"]
+			id: "2421E3B7BABCD7B1"
+			tasks: [{
+				id: "3915B28249B8FCAC"
+				type: "item"
+				item: "minecraft:hay_block"
+				count: 512L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "587C2549924ECA48"
+				type: "item"
+				icon: { id: "thermal:gold_coin", Count: 7b }
+				item: "thermal:gold_coin"
+				count: 7
+			}]
+		}
+		{
+			title: "Metalically"
+			x: 4.5d
+			y: -2.5d
+			subtitle: "16 Silver"
+			description: ["The metal processing plants urge for ores, give them a bit of your mining results."]
+			id: "1E3E3E5533D245A6"
+			tasks: [
+				{
+					id: "1E4258A0E0E17155"
+					type: "item"
+					item: "minecraft:raw_iron"
+					count: 10L
+					consume_items: true
+				}
+				{
+					id: "57F6CB4D244CF5D2"
+					type: "item"
+					item: "minecraft:raw_copper"
+					count: 10L
+					consume_items: true
+				}
+				{
+					id: "6D6A776D91D97BF9"
+					type: "item"
+					item: "minecraft:raw_gold"
+					count: 10L
+					consume_items: true
+				}
+				{
+					id: "247DC267AB580217"
+					type: "item"
+					item: "create:raw_zinc"
+					count: 10L
+					consume_items: true
+				}
+			]
+			rewards: [{
+				id: "3DD643633E9221C5"
+				type: "item"
+				icon: "thermal:silver_coin"
+				item: "thermal:silver_coin"
+				count: 16
+			}]
+		}
+		{
+			title: "Metalomania"
+			x: 4.5d
+			y: -1.0d
+			subtitle: "24 Silver"
+			description: ["Fancier metals require fancier rewards."]
+			dependencies: ["1E3E3E5533D245A6"]
+			id: "2547BE1B098305A7"
+			tasks: [
+				{
+					id: "75A913458544C5F3"
+					type: "item"
+					item: "thermal:raw_lead"
+					count: 10L
+					consume_items: true
+				}
+				{
+					id: "1D0AEB2D020E534E"
+					type: "item"
+					item: "tconstruct:raw_cobalt"
+					count: 10L
+					consume_items: true
+				}
+				{
+					id: "1B09B5AD47B03DBE"
+					type: "item"
+					item: "thermal:raw_nickel"
+					count: 10L
+					consume_items: true
+				}
+			]
+			rewards: [{
+				id: "6CD1B14E01A1C583"
+				type: "item"
+				icon: { id: "thermal:silver_coin", Count: 24b }
+				item: "thermal:silver_coin"
+				count: 24
+			}]
+		}
+		{
+			title: "Movie Rating"
+			x: 6.5d
+			y: 0.5d
+			subtitle: "5 Silver"
+			description: ["Rotten tomatoes are an essential part of movie rating, imagine if tomatoes never got rotten, what would we throw at them?"]
+			id: "428584CEC8AC19B6"
+			tasks: [{
+				id: "5D3265731DBE1331"
+				type: "item"
+				item: "farmersdelight:rotten_tomato"
+				count: 20L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "556A936662487411"
+				type: "item"
+				item: "thermal:silver_coin"
+				count: 5
+			}]
+		}
+		{
+			title: "The Flattening"
+			x: 6.5d
+			y: -2.5d
+			subtitle: "7 Silver"
+			description: [
+				"3 stacks of dirt are surprisingly useful for flattening terrains."
+				""
+				"And why do we need flattening terrain if the earth is flat? checkmate flat earthers."
+			]
+			id: "21AA0BE00D934884"
+			tasks: [
+				{
+					id: "3117E4A7C1FA30BA"
+					type: "item"
+					item: "minecraft:dirt"
+					count: 64L
+				}
+				{
+					id: "1C55E064F4D9853E"
+					type: "item"
+					item: "minecraft:dirt"
+					count: 64L
+				}
+				{
+					id: "4BDB4CEFF3E237A2"
+					type: "item"
+					item: "minecraft:dirt"
+					count: 64L
+				}
+			]
+			rewards: [{
+				id: "6768D6E415DF490A"
+				type: "item"
+				item: "thermal:silver_coin"
+				count: 7
+			}]
+		}
+		{
+			title: "Cute Gardening"
+			x: 8.5d
+			y: -2.5d
+			subtitle: "5 Silver"
+			description: ["These cute little dripleafs and those clovers will be perfect on that garden over there."]
+			id: "0F79FC684268C640"
+			tasks: [
+				{
+					id: "40C155A8A71D305D"
+					type: "item"
+					item: "minecraft:small_dripleaf"
+					count: 8L
+					consume_items: true
+				}
+				{
+					id: "3B63A399C313767A"
+					type: "item"
+					item: "biomesoplenty:clover"
+					count: 5L
+					consume_items: true
+				}
+			]
+			rewards: [{
+				id: "49408BEFEFB53485"
+				type: "item"
+				item: "thermal:silver_coin"
+				count: 5
+			}]
+		}
+		{
+			title: "Cone Traffic"
+			x: 8.5d
+			y: 0.5d
+			subtitle: "1 Gold"
+			description: ["The industry demands more traffic cones, increasing cone traffic trains will be safer to ride and less collisions will happen."]
+			id: "36C7F5DE56EABC0A"
+			tasks: [{
+				id: "2E14E0E2F25DE368"
+				type: "item"
+				item: "createbigcannons:traffic_cone"
+				count: 10L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "160A057BF64BD43E"
+				type: "item"
+				item: "thermal:gold_coin"
+			}]
+		}
+		{
+			title: "Pesky Arthropods"
+			x: 2.5d
+			y: -1.0d
+			description: ["Kill those pesky spiders from this land and receive a bounty for that."]
+			id: "576041A5B3ACFAEF"
+			tasks: [{
+				id: "3A2E5DD8D1B80CB0"
+				type: "kill"
+				icon: "biomesoplenty:spider_egg"
+				entity: "minecraft:spider"
+				value: 50L
+			}]
+			rewards: [{
+				id: "6A260E513210A5EC"
+				type: "item"
+				icon: { id: "thermal:silver_coin", Count: 30b }
+				item: "thermal:silver_coin"
+				count: 30
+			}]
+		}
+		{
+			title: "Meteor Hunter"
+			icon: "ae2:sky_stone_block"
+			x: 4.5d
+			y: 0.5d
+			subtitle: "10 Silver"
+			description: ["So you found some skystone? Thank's for your collaboration."]
+			id: "50C4475040D2064C"
+			tasks: [{
+				id: "22FF303235CCCE27"
+				type: "observation"
+				title: "Find Skystone"
+				icon: "ae2:sky_stone_block"
+				timer: 0L
+				observe_type: 0
+				to_observe: "ae2:sky_stone_block"
+			}]
+			rewards: [{
+				id: "36B7B24AA3FDC153"
+				type: "item"
+				item: "thermal:silver_coin"
+				count: 10
+			}]
+		}
+		{
+			title: "Willy Deals"
+			x: 2.5d
+			y: 0.5d
+			subtitle: "35 Silver"
+			description: ["Who wouldn't want these delicious treats? Submit some to get a nice reward for it."]
+			id: "553CBFEE1FF3773A"
+			tasks: [
+				{
+					id: "13304256BEBDBA00"
+					type: "item"
+					item: "create:bar_of_chocolate"
+					count: 30L
+					consume_items: true
+				}
+				{
+					id: "7006CA92CBABCB80"
+					type: "item"
+					item: "create_confectionery:chocolate_glazed_marshmallow"
+					count: 20L
+					consume_items: true
+				}
+				{
+					id: "4A7F031458B48CE0"
+					type: "item"
+					item: "create_confectionery:black_chocolate_glazed_berries"
+					count: 20L
+					consume_items: true
+				}
+			]
+			rewards: [{
+				id: "2D0AE8A50A861041"
+				type: "item"
+				icon: { id: "thermal:silver_coin", Count: 35b }
+				item: "thermal:silver_coin"
+				count: 35
+			}]
+		}
+		{
+			title: "Dark Business"
+			icon: "thermal:crude_oil_bucket"
+			x: 2.5d
+			y: 2.0d
+			subtitle: "25 Silver"
+			description: [
+				"OIL!"
+				"Oil is probably the most valuable thing you can find under some random hole on a desert, guess what, I want it."
+			]
+			can_repeat: true
+			id: "4F9F57C3FD28F79E"
+			tasks: [{
+				id: "76C530203910856C"
+				type: "fluid"
+				fluid: "kubejs:flowing_crude_oil"
+				amount: 30000L
+			}]
+			rewards: [
+				{
+					id: "7A2C9E1FE53E31BB"
+					type: "item"
+					icon: { id: "thermal:silver_coin", Count: 25b }
+					item: "thermal:silver_coin"
+					count: 25
+				}
+				{
+					id: "7E2A291D2FD71E8B"
+					type: "toast"
+					title: "Repeatable"
+					icon: "thermal:machine_cycle_augment"
+					description: ""
+				}
+			]
+		}
+	]
+	quest_links: [ ]
+}

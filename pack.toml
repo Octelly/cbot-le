@@ -1,0 +1,13 @@
+name = "Create: Back on Track - Lesbian edition"
+author = "Octelly"
+version = "1.1.4b"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "44f0b370c1e4cc0db6a1a51de3c5c6ba1fa1aff9285d4163864f1054a777af78"
+
+[versions]
+forge = "40.2.0"
+minecraft = "1.18.2"

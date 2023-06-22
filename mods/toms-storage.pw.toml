@@ -1,0 +1,13 @@
+name = "Tom's Simple Storage Mod"
+filename = "toms_storage-1.18.2-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a34d0c495d095c2c031b45b4766d26642500c5ca"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4395902
+project-id = 378609
