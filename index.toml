@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "ee5e4efb631e54320a0326f69595c815ef6aa5fd27f2911a465811b592a0694c"
+
+[[files]]
 file = "background.png"
 hash = "e18f8520dd4433e05cdd5b71a8a5d500288de5d1c664f45aa06f1bd6758c7c63"
 
