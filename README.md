@@ -1,4 +1,4 @@
-# Create: Back on Track - Lesbian edition
+# <img src="https://github.com/Octelly/cbot-le/blob/main/icon.png?raw=true" height=25> Create: Back on Track - Lesbian edition
 
 [Get the Prism Launcher instance from releases](https://github.com/Octelly/cbot-le/releases)
 
