@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/static.yml"
+hash = "2f02b246e2ca98407a4a6fa877ea8962c4f1c3fbf4989fdb6e1f5c81661ff83e"
+
+[[files]]
 file = "background.png"
 hash = "e18f8520dd4433e05cdd5b71a8a5d500288de5d1c664f45aa06f1bd6758c7c63"
 
@@ -1537,11 +1541,6 @@ file = "config/openloader/resources/Created--Updated/pack.png"
 hash = "72381699060101cb6db039262bcea870956d77b81f6d3dbbfcb79755a771c718"
 
 [[files]]
-file = "config/openloader/resources/create-simple-storage.pw.toml"
-hash = "eb411cbbf0d840e98c869742194b74925183674db8e4d0a01151400e7b6252ab"
-metafile = true
-
-[[files]]
 file = "config/openloader/resources/simis_redzits/assets/ae2/models/block/charger.json"
 hash = "c7433225629b44933ef523354dece132e7d88f99f74044ae7840ede59c40e853"
 
@@ -2312,6 +2311,11 @@ hash = "fc555f618beb394086409ebe2e231b2814ba58aac12f866ac13ca17407a97460"
 [[files]]
 file = "config/openloader/resources/simis_redzits/pack.mcmeta"
 hash = "5488a7ceda1b728b8bb7187d1351e26c73b9b22e498799cf54fe76290587f3b1"
+
+[[files]]
+file = "config/openloader/resources/toms-create-storage.pw.toml"
+hash = "7369c0f50de35aa5988bcb1b4f51bb94247b4d15be890b44b254112da1a04d9f"
+metafile = true
 
 [[files]]
 file = "config/oretweaker/Info.txt"
@@ -3462,6 +3466,10 @@ file = "kubejs/config/common.properties"
 hash = "16d10c6378273f25835c594a5aabe2e8c9657a2af2670d3f98f739878ff769a2"
 
 [[files]]
+file = "kubejs/config/defaultoptions.txt"
+hash = "6e79ed1b14b7afe3b83aade86a9b5543fae29cb5ed27531a2e8483a3ee78f360"
+
+[[files]]
 file = "kubejs/config/packicon.png"
 hash = "552d13feffc0918dcbc39e4d18d0209f8a4eaedfc599de383805e81b3b62c842"
 
@@ -4196,16 +4204,6 @@ hash = "bfcaf25cd94492e855dfb7353dacb44ed1668b3f6d3d1705360e785ede84667a"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "94609bc33550bb64bdb280d53156767318407a4a62d2273b6f9d0a0f40396e9a"
-metafile = true
-
-[[files]]
-file = "mods/jeitweaker.pw.toml"
-hash = "df2cae32830ff833abb3c2897cc34d569623b44c196028af677770f0c83c0da4"
-metafile = true
-
-[[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "2f86406baf5c931fbb9b37c0ed93c8d041fe32eb6c9b20b915a351e0a1bfb0fc"
 metafile = true
@@ -4396,6 +4394,11 @@ hash = "11868d1a9418f8501ffb5f8d10cfda70857b333e17aa7241b9b411d68f341a86"
 metafile = true
 
 [[files]]
+file = "mods/rei.pw.toml"
+hash = "4a1869ff0eb62c3faee0a9715d68d63105e04e96596f6ed29b19d641569020de"
+metafile = true
+
+[[files]]
 file = "mods/repurposed-structures.pw.toml"
 hash = "6d90703590e13b8233fa9572f5306b87d4b56930905eca96b9a9834e122cb6bc"
 metafile = true
@@ -4403,6 +4406,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "43375678708cd812b22ab1ecbc3f5452bc0910bac6f544c69f9ccf8bd14d420f"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items-hacks.pw.toml"
+hash = "48307bdadbaeec0f320ed897e3ad756bb84f6ba6347e318dac51f11e1df3cf8e"
 metafile = true
 
 [[files]]
@@ -4542,7 +4550,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-storage.pw.toml"
-hash = "e83bd43dbd82a758f8c12b8dfc36e05fd65bcaa1721c45cde38fe851ecdff277"
+hash = "7ae147007f344332b3c7aa96919f4b1b7972ee29ce8a701193a06088f4f9fb61"
 metafile = true
 
 [[files]]
