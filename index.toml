@@ -4451,7 +4451,7 @@ metafile = true
 
 [[files]]
 file = "mods/sooty-chimneys.pw.toml"
-hash = "0fef2dbe5c95b9811110341164a310474072872a8cc50e52913801fe41694a0b"
+hash = "bdcbdbba51ef075cec310dbe8bee49d3a01c75923034ba50a59d43f8c1152a96"
 metafile = true
 
 [[files]]
