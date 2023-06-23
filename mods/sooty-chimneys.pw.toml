@@ -1,0 +1,13 @@
+name = "Sooty Chimneys"
+filename = "sootychimneys-1.18.2-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4f008fa6da4ac893a01f4dc461c7e393b06b0167"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4548642
+project-id = 634005

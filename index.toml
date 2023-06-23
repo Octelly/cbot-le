@@ -873,18 +873,672 @@ file = "config/openloader/advanced_options.json"
 hash = "97c64147276f55cad728249dd77602661e2327fa178aeb8e0db12866df448211"
 
 [[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/lang/en_us.json"
+hash = "8540f7d646374b553953b0878a423fb309f1b1c4700b39cdb31e2eb7e8cbc921"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/block/bistable_relay_i_0_off.json"
+hash = "ed128e3a4319781b783ff0d5c51681cac955ab8552851575743dc5885c22e967"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/block/bistable_relay_i_0_on.json"
+hash = "f3931c9b7275cc74fe8d1c6b66a9bcf3cd3a32b67f3307870512c187f4719543"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/block/bistable_relay_i_1_off.json"
+hash = "5e9a842e544e91e68a5ed36276ef1aaaa8aed67d9fecb0894063c02f308d56a0"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/block/bistable_relay_i_1_on.json"
+hash = "a8eeebf468040c4678ae5c428d616b289e454b62be03efe8cc865710c5873290"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/block/bistable_relay_n_0_off.json"
+hash = "90f9d5030028673a59f8a23be6d4c057c9c85bd8c9a342ce07ae54c1a93f852b"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/block/bistable_relay_n_0_on.json"
+hash = "ee9ca83b297fb1c5c30c8d0490d49b79aa2b2d364026e0c5e3d4b114b532f3d1"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/block/bistable_relay_n_1_off.json"
+hash = "04d3ecb38c80a829b10fd0b1ad2bb742128e0a82fba5559adf7c4564f9aa322b"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/block/bistable_relay_n_1_on.json"
+hash = "6969943bbb254a40de50c9278d4760d1868047c8b2b617e644a0cd22a3072566"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/block/bridge_relay_i_0_off.json"
+hash = "b04e57b0d86066647229d17620325338385b161da74bda258edab79df7775230"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/block/bridge_relay_i_0_on.json"
+hash = "6a013ad7aac15278641fcca071d78ff4f57d74e4dc3b2862d2ffa89d5e9f154a"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/block/bridge_relay_i_1_off.json"
+hash = "4b2d11a3168d251de3b39912be20be57d9d76d18a687473dbbb5e2b480be512b"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/block/bridge_relay_i_1_on.json"
+hash = "24a6e77cf78123b10c40fe142131b9b8393c23b4bb2fb87234a1cf0e1cbcec0d"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/block/bridge_relay_n_0_off.json"
+hash = "d3c6b05268b15cd81121b68573b325d688967d743e8ad6a4e27382019872e37f"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/block/bridge_relay_n_0_on.json"
+hash = "aa09ab5783ec4b619ab8d2bfff32001dfd7d2f6c2e4268fcd7b8aa78fa002433"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/block/bridge_relay_n_1_off.json"
+hash = "177c40d0a9e8bd2497a411707d6a11e7144e0f61f894f75c9e068d288bbe5c7f"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/block/bridge_relay_n_1_on.json"
+hash = "4836ade7d7093292f201f5e85a074fd5d29b84502bfb29a62c0462f6da3c0212"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/block/control_box_i_off.json"
+hash = "784a1962400bb94f2cf6e5f22a212dfe3368ad3848cd997842622d68a0cf97fe"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/block/control_box_i_on.json"
+hash = "b20378b58fcadff1e99b5246f579e1c1553d2bcd868e2fbcacdfee77f129ecb1"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/block/control_box_n_off.json"
+hash = "35822b9300b53080a681fea83e06a346e7f5102aba667338547ed535dd989f6c"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/block/control_box_n_on.json"
+hash = "71a9de544c1d691435e4bdfca7bdf61b97efbe2cf1d35eef934d72ef5449baa0"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/block/inverted_relay_i_off.json"
+hash = "e17de4eee2248205252c2c93a4fded95441a0352b19d8ce6d08b4ad14b7d16f1"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/block/inverted_relay_i_on.json"
+hash = "37f3c7ed4c19d594b5562457c65981379522ff27d9d4e067a9ab8c96e2b097ae"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/block/inverted_relay_n_off.json"
+hash = "33bd69c8a190972c465181cda02e363c262447f4363a43fc7238d67c0cfea855"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/block/inverted_relay_n_on.json"
+hash = "5a8486fc2ae70687ca9d9d8523bf24840065005ce84801b6c7a22894d14b50e0"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/block/pulse_relay_i_0_off.json"
+hash = "824251d4be13526153dc58d12b2e8b09a71fb4a959084a5f2d342c28617dfdaa"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/block/pulse_relay_i_0_on.json"
+hash = "0c6752e7c060ceff305fac530652bd406cd86723a1cc2ac10b00c413a3e95bbb"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/block/pulse_relay_i_1_off.json"
+hash = "6782b0c39babe7fd4f57fb815a3f8ec56d091e958816ce27217b046aa927dd5b"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/block/pulse_relay_i_1_on.json"
+hash = "a83cc773b487a0ce327af27ec9fa473b4057b8fb3b2f6d833cb4c49f4bb26974"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/block/pulse_relay_n_0_off.json"
+hash = "894931db8f62069246cfdd62978ba51992a83e828be7e7786a11eb50a1a142e5"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/block/pulse_relay_n_0_on.json"
+hash = "618c0e5ea2ab1d325a947531e7a224982fe7d39a278416764ab19ecca0c1cd53"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/block/pulse_relay_n_1_off.json"
+hash = "ce5948da4ed76bf524345a827d8c20bf782b340852e6a26bc6fd8535c0d07858"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/block/pulse_relay_n_1_on.json"
+hash = "d66c18b503c894154a6f9923262c7b5dcac1c1130638ff332061be0fee0f1a70"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/block/relay_i_off.json"
+hash = "5b25aff14c29d2b4c2238f042239cdafc7fedda392540c3fe054769e5052df55"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/block/relay_i_on.json"
+hash = "f92c2689816e3836fb11d05135a83f76e53e5c4e32c094d76d9650eceffbe78d"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/block/relay_n_off.json"
+hash = "cf73c99a2c96c5880e7a1fa4f0bcbb656ea4334e11504964637ef9e33deaf825"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/block/relay_n_on.json"
+hash = "463035aac7e413f5702e609796e2498a8b5ca1019d9316644585016a76b0ef8b"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/item/bistable_relay.json"
+hash = "7abc4bb074d7fc6535e05fc5e566b0ef74400683e2e7d6108d78a6a55f493643"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/item/bridge_relay.json"
+hash = "855ea48151d9c771ad4ec7fd9f0ecfad82683f49ee367203d6f7b37d925c3524"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/item/control_box.json"
+hash = "90975061076ac27f53c23eafc20bb7b78dc8695d402e2453a6cb29e533f1eceb"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/item/inverted_relay.json"
+hash = "0e25d6ec9199e19fccb19048b361389aa693f315bb6e64bc54dee5c294a373b1"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/item/pulse_relay.json"
+hash = "d34092044b6aa3678b01ccda8d325308ab8dad67a27f000dbc75ccd59395d732"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/models/item/relay.json"
+hash = "8643b66b935bbf8f379c759875d546b6b6d2895a9733723007beb90e314ac4ad"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/textures/block/bistable_redstone_relay.png"
+hash = "2f7ea5e66208f87803f6dc3530721527e36bffa5a3a3dec6bd7ef8c85fe46650"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/textures/block/bistable_redstone_relay_on.png"
+hash = "6caf16be476d8ae72ccf78e525fb41fd27fc5afd3c4be3c52d49c5fba1d5e3cf"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/textures/block/bridge_relay.png"
+hash = "c2b07aa185ffa08b1f6a269d2ebeb5b8dbaac8a9faf7f3163db9f912c3294d5e"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/textures/block/bridge_relay_base.png"
+hash = "4f87bd6934c4cd1c5f4974316a7250f2cdeb1619c3218b0e735014f98f7464b0"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/textures/block/bridge_relay_on.png"
+hash = "202bdd8d5ccaf7aff1989c648d20424aa16a5b16653e9d5698a06d03ab14f01b"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/textures/block/bridge_relay_on_1.png"
+hash = "e0178685ee30a9824789572531910d38157fa204507088f74ee180b099b65888"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/textures/block/bridge_relay_on_2.png"
+hash = "68b36e97a118a145cd3f4f28cc31d021661872cf05accbef3f038839b98990a8"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/textures/block/control_box_block_bottom.png"
+hash = "2a3e3eca2b7c9dc7f5efdad414cd0a104aaded76cdb008a94097ffff337c95fc"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/textures/block/control_box_block_off.png"
+hash = "4e1ee570ba32b681bdec27a83e4456e22bb81b25b6c2953f490449c183585426"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/textures/block/control_box_block_on.png"
+hash = "4e1ee570ba32b681bdec27a83e4456e22bb81b25b6c2953f490449c183585426"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/textures/block/inverted_redstone_relay.png"
+hash = "189ea269cafffb4a19fc28287183821808e276e1789888b67661dc5d36f9ab4e"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/textures/block/inverted_redstone_relay_on.png"
+hash = "aa9bb419bf85aaf5dc1e5854de2d026f83a3f7abddd480f08e70cdcc1533f2c8"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/textures/block/redstone_pulse_relay.png"
+hash = "d3b49f29e93c847e4845e710a620183e2c4287494813b6f7cb4bff389c4b4d1f"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/textures/block/redstone_pulse_relay_on.png"
+hash = "aa0d2821b1d201e0a49e458e828b3abf8bbad3267273d2bbf325b60299a5aa28"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/textures/block/redstone_relay.png"
+hash = "10c64e7b74b166757fa5868d764bb8d78a5f5bc72cdba93e826561680e57fe5a"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/textures/block/redstone_relay_base.png"
+hash = "7135a7ee8388700d761d35c93e0a346a5071308088bb05f461a24395480b2456"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/textures/block/redstone_relay_on.png"
+hash = "04370bfd67476e6d03b8ce3a2e081b74ef467daab59571571badb0a5270fad08"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/textures/block/redstone_torch.png"
+hash = "28b0160a894a4fdfccae1a7b1254806456fa4ba220aee55e4b73a31783d39ed1"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/textures/block/redstone_torch_off.png"
+hash = "b37d7c758987039434f942e8b139e8e5dc6e52e45c7d3f595f9d54a101a3fea1"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/textures/item/pen.png"
+hash = "3f1917e85af95f0c444ff8a57022f0c4476b88620773a2c94c2b8e7b739e7835"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/assets/redstonepen/textures/item/quill.png"
+hash = "65851c601351b5d7350fb0dc72a038a443cb618a71240b3185f8c399394a92e6"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/pack.mcmeta"
+hash = "599f065b31b13ffac9880c9f88616867a9d7dbbe1658b7a31347e02e11507d0c"
+
+[[files]]
+file = "config/openloader/resources/Create_Style_Redstone_Pen/pack.png"
+hash = "6ab7d19d090f0dd9da86e8d88a06b67b0e1f7364c3b3814389208d7f28ee9edf"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/models/block/content_observer/block.json"
+hash = "9c924d3f70f4d037fa069462af821f81858d2664431a9f380e38f176c9cd835b"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/models/block/content_observer/block_powered.json"
+hash = "b1a6a4207d11099270ebd4fd50bae084209d8c359e2680a38125f32786188711"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/models/block/cuckoo_clock/block.json"
+hash = "a8ef6ace6956f5cd32f10615f02284d3e81dc7ce776bcda9cef6bc0f26e38a97"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/models/block/cuckoo_clock/creeper.json"
+hash = "b6b2d94d2ba5b1a1eef52da5e67768b6fe828454101a9c2d22136f0347ca3c05"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/models/block/cuckoo_clock/hour_hand.json"
+hash = "96fb54f23b02d918358136a80c539cb063ac54b2592971fcd8d3760b86dc30d0"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/models/block/cuckoo_clock/item.json"
+hash = "02727246b856d3887b728bee576c03431dfbb8ad199d97ed6c8c67aded35cd4e"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/models/block/cuckoo_clock/left_door.json"
+hash = "1d005ecec580688b42b1edb4c44e9f3a427cf220c30e83c5f523a8b5662423b4"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/models/block/cuckoo_clock/minute_hand.json"
+hash = "531c0cfe3c05984769998ee0ba0715f4c3eefb4abe95a71454bdf8ea06960761"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/models/block/cuckoo_clock/pig.json"
+hash = "0f3959c624e21454ba1acb9b1f840564720f0cbb73fe52dae9b8bd2f3fff93d0"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/models/block/cuckoo_clock/right_door.json"
+hash = "cc688405c8d600beae24c7d52d4304a8deef862c771a801c4d0785f5e959f5cb"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/models/block/goggles.json"
+hash = "fa3cff153491f3b4453d7ee89f698ae09ece1b9e09d47992d1a9bdb89f7bce1f"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/models/block/mechanical_crafter/arrow.json"
+hash = "ca1e5f6fff2089bf798a23e6b13e168bfaca1e579520314c29ef1f3c5eee2c88"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/models/block/mechanical_crafter/belt.json"
+hash = "1e2ed63031d3fb1991d3275ea808896527e1c78ff1fa0f7c709475e3beee8074"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/models/block/mechanical_crafter/belt_animated.json"
+hash = "f99d6c93d23d7209cebbfb947a950d24607c1ab660b36a4ca3bef6dd31ce4228"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/models/block/mechanical_crafter/block.json"
+hash = "e2d1af080ae32afb48a63c510643f3b544024d236dfd1401a364405e10a20223"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/models/block/mechanical_crafter/item.json"
+hash = "770e97c31933efb8f956d24f10282b16c0963b0efed5123baf6df56f73ce3424"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/models/block/mechanical_crafter/lid.json"
+hash = "f49291a63f98e2da0ddc1f8c2fe755fdd37a9fe4041a5c52349c81b017239192"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/models/block/mechanical_drill/block.json"
+hash = "f36e789ef9a708d7620c918002784455acb5efcd785df85fab2ac4747969f712"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/models/block/mechanical_drill/head.json"
+hash = "7b723ee6d1f51033905f304a29d426ea870e70e6a2786148adf164ee02e6229e"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/models/block/mechanical_drill/item.json"
+hash = "99ae93a21f10f5d16860e40d231886fe55751f22c378e84ab1c4b227b7a320a2"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/models/block/rotation_speed_controller/block.json"
+hash = "bd7b85645c23e262eb0dc6b0bfc75d676465543f29e3257fa81155cbeee3ed59"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/models/block/rotation_speed_controller/bracket.json"
+hash = "7fb4902c8f8efe09213857f2a3fb5e949701d86edb9debfa86ee603a5f7bfc56"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/models/block/rotation_speed_controller/item.json"
+hash = "357f0139fa4b6f684c6b32f78f1b993737521e35345f1929d2a61c8da5642311"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/models/block/stockpile_switch.json"
+hash = "840b2ad43305bd21a2472d3453a0d652052cd686f039b6bdead60cd28640398a"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/andesite_casing_very_short.png"
+hash = "3990cefbf9672de42077ac8b4600ed464a07b06ae0562ce2e16789121f28bd13"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/andesite_funnel_back.png"
+hash = "24351bc227efcbe76ad687a671808e5ef8670b75170fa49bdc46813c84f34d29"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/andesite_funnel_neutral.png"
+hash = "52e150ecec76806ae25ee681247468bab43c54be06cc2f832b8133561a0db7e3"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/andesite_funnel_plating.png"
+hash = "c7c2096ea32071ebab991b4e523b2de958d48c3d8d8a6ba035ac5765d51ea3ce"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/andesite_funnel_pull.png"
+hash = "276fa28447270f95b01180725506c25b5de9c336e5ca72d19d725746f2f92663"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/andesite_funnel_push.png"
+hash = "4c945b3d7e16f2587dad283dd528555b2aea6d32e607b805cd36384826e2ce87"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/andesite_tunnel.png"
+hash = "0f7340b87d4e559c9a86df5e67ec0d7b08f626ef287dffda86f2e198b9486f61"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/andesite_tunnel_top.png"
+hash = "f6f3870fbaa71f6216d71665cafc445cfe4ae96c5c26e1374353a46b705103a2"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/andesite_tunnel_top_window.png"
+hash = "ac9b2c67d5f5fceee3ac8a1e325bdeeb3bbb11f1660a1eccfc34072494a33984"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/axis.png"
+hash = "3739fc583903bc6ae0685c670aa9805ba238dca23d9eb084412addb279a9a8e1"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/axis_top.png"
+hash = "c095e921f59bc4cc3bb6e01ba793f9258c156149a72b6b99d2798c73b68cc676"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/brass_casing.png"
+hash = "a9904b28cfb13047c6286e8b508a14e3e80076197bcb8a651370a0214bf52ea6"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/brass_casing_belt.png"
+hash = "4403f466fa3088603505cbf2a709fe5aa9726c1831cc806808d841c82ab0b553"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/brass_casing_connected.png"
+hash = "b8f1830f8b26043931e8d80703419d3d87800421af1db5321432a2cd9274ae00"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/brass_casing_inner.png"
+hash = "412619d4622c4b91ad302a8b94d1495901e6b3bfccb5023a74cadff18f3617d2"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/brass_casing_side.png"
+hash = "dd5a43e88e5a741b34c88a194d70da3bee369a9bf4a1602cbcc5b6cd3f0e58c3"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/brass_encased_cogwheel_side.png"
+hash = "b149c6ae8943b6ecaefef1baa1a52f2463775e50f361ecaf4fc03bd6527c60df"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/brass_encased_cogwheel_side_connected.png"
+hash = "ff66f2227df8924f155eafbca5feed37e66201d7969dcd627058af7ae1e7a0b1"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/brass_funnel.png"
+hash = "919836decb06a4976418400cc96d018a252c3d58cdb4a03bb06e8b0d1b3f61b4"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/brass_funnel_back.png"
+hash = "24351bc227efcbe76ad687a671808e5ef8670b75170fa49bdc46813c84f34d29"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/brass_funnel_neutral.png"
+hash = "07e266166f9b7b1fb078fefc47aef91ac087cc05eea8f0e5154172bb8c562c28"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/brass_funnel_plating.png"
+hash = "b0b0c77c6654d361df4ffeb6b74a926d9a3741fe46f0d22c068b90a3b4167cbd"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/brass_funnel_powered.png"
+hash = "77e7248c8c305edaf25445966899766a39fb1b617fa164b9cc4d30e9737f1ae7"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/brass_funnel_pull.png"
+hash = "60db6e50118cefa3dd6a385a5a37e21637209ae289383127d37433a36a9c3213"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/brass_funnel_push.png"
+hash = "04e3dc6872d31f6a9b9e832fbbd4dd969f678915e7cf269b080b95d05bd54167"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/brass_funnel_slope.png"
+hash = "80ec8058a3431824d3804ba55eb485e0d058fb41acde2d05242ffd32f24c860c"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/brass_funnel_tall.png"
+hash = "88d247a72867f48ef6dda92521db93a6dcf2aea914b44eb2c3d3abdb57c7782e"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/brass_funnel_tall_powered.png"
+hash = "15f57c3b29a86bf0d0361d3111c17fad0716e028ab62dcc32356572cb235de04"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/brass_gearbox.png"
+hash = "f09231206bba9270e05f6d2ca46095ca88ad801cc0dc0549132d2abdf910aecf"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/brass_tunnel.png"
+hash = "e9d7b6882eb8ebea5d26339f76278ce853e6c48e7d6c04a61c42afbe60979ead"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/brass_tunnel_top.png"
+hash = "40eed8c9b6704c2b6ba99d7fae893dc85e192e64946bcd4da61ac26250c1f97c"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/brass_tunnel_top_connected.png"
+hash = "0244ab86befa2b10839fad07789a36be472c0c7690e41b4aa4f4ee52790f21d1"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/brass_tunnel_top_window.png"
+hash = "0c0b662bb2258e1fd1d37db708e613b98c06852345658faef4efcb5a81cdee3b"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/cogwheel.png"
+hash = "994f3623dfc8b962c06b09aef48dee48a44dbc36d473f01807b5c59cee97e7d1"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/cogwheel_axis.png"
+hash = "2d29b2e06ffa0e556b8f0efc228262777f5d7a9a2da998a6913e1bf6f0c64c08"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/content_observer_bottom.png"
+hash = "92dcdcc3b97804744a3a0dcf6e0bc9ca04f13f433681ba0eb53a9d16d639f923"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/content_observer_face.png"
+hash = "f193b2708daa4180242f18b349e8f41fbd7e90f74a458c8d2bae039a9237bf28"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/content_observer_middle.png"
+hash = "53cb1dfcac7a09c7aa236f69e3a547206d618de761b931621745b24a421d075d"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/content_observer_side.png"
+hash = "815d126b4772c117cc2414120b1a039432af2cd0d717b6dcab8ae6fd8ef52e0a"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/content_observer_side_powered.png"
+hash = "f36c46947eb33d27bf3abcdd77b706730b907431baced7cb7bf6fe95a18ce4b8"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/content_observer_top.png"
+hash = "4792d22741cd09361834ba6a5c1f7f7d59e94f77c1a01f4295b5960bc4f13ec6"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/crafter_back.png"
+hash = "dca6ed91ac91efe1b1323736b979c68f15872989228bd5f816aac76fd82138a3"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/crafter_belt_side.png"
+hash = "345bf9198b80e7f85b86606ca8a430a566e3be4c82ba35560d7e2c166b29a647"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/crafter_rim.png"
+hash = "edacbeab9fb55cc5011fe606056173f2494d8bbd2c2508160dcb64fc167385e4"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/crafter_side.png"
+hash = "081b06e3ff76bce11c545921fe9df101c39e5ead84207ddf9aa762806306f9e8"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/crafter_side_connected.png"
+hash = "8e943f74e4aa04be4231ca96b6c5da57b6ded24e177b0b72a29775c312968f99"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/crafter_thingies.png"
+hash = "ffcb3a4863e28e6e789b34f3366b6a3aaa8347872798efe3e920f8ac3fc5a073"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/crafter_top.png"
+hash = "a9904b28cfb13047c6286e8b508a14e3e80076197bcb8a651370a0214bf52ea6"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/depot_side.png"
+hash = "41e19d00ecb157e38783962df05be4053eb19d963a81348a04f334a9960500dc"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/large_cogwheel.png"
+hash = "7ea88d33cdddd90a5e34fc04b011b138e2c5d4b8feef1d96c7da2eaf5611e950"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/rotation_speed_controller_base.png"
+hash = "b948deab861b05599701c329cd9489da7eb77407cdfce4a8393dd872143a1eb0"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/rotation_speed_controller_bracket.png"
+hash = "32967c9bd751384e5f68e70ec1336d71a15d0981d1d3e174268ffddbfb6bbe32"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/rotation_speed_controller_bracket_base.png"
+hash = "1387c00e7e0f3de890247b57afa2fdc0e6a83632827311915346ccff0554fd32"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/rotation_speed_controller_front.png"
+hash = "0a32d791450b12d1317c5d94d11f965f358d96012bd49ec0555eb181b2db4691"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/rotation_speed_controller_panel.png"
+hash = "c8e5e617f426921105a0606365cc5f68da7d386d81ba3a49adf65d11987754af"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/rotation_speed_controller_side.png"
+hash = "d3941926ead6a7d59b237c1de61b6b37270e5e7ec9aa89fda0205fd769509a7a"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/rotation_speed_controller_top.png"
+hash = "929ef8096e2c1902895c56bf4948a90fb626f136c09ffeea4fdf387d9b32ede6"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/stockpile_switch_face.png"
+hash = "199fa37d7a28de58e6e28d529b08a18aa964db0405748c804d395c0fd77e508b"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/block/stockpile_switch_middle.png"
+hash = "8fecdf1eee4a1586a4319bae90c605bc4bef23ae2b18e21f08ebca5c5c799d21"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/fluid/chocolate_flow.png"
+hash = "bbe1876fc30d7954d91e3aec3d23081610ee60e423d6981436a266ce0e981700"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/fluid/chocolate_flow.png.mcmeta"
+hash = "ec723cec1271915d24b06d49be51cee483680cc57448717cbfd5b43b59df83ce"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/fluid/chocolate_still.png"
+hash = "f36b318d9cbed73a4c26d29b7a920ae1ffff0bc14c6e6452ffcc6e35610960d3"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/fluid/chocolate_still.png.mcmeta"
+hash = "811e22f06d18a7c593260b77fd375f103757bce1f47fc575c7369ce523c49e2b"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/item/bar_of_chocolate.png"
+hash = "ef21286271064a49e335563b124e9c78520994d2bf47092076182d75bb081b16"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/item/chocolate_bucket.png"
+hash = "c0bb7d2d6e5556a0d3c3dad6e867f8c1d9608c26b83e4f075e44082ae6d1f3ed"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/item/dough.png"
+hash = "3dada5871dcc7f201f2ffd7b3026f2b125630b50d992cc3879006238c2b42fbd"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/create/textures/item/goggles_model.png"
+hash = "a6a63f88ce5c18d97539e2a4dbe844f7091b499ad1345f85cbda65564aec77cb"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/minecraft/textures/block/copper_ore.png"
+hash = "5d6efd9436f596d0b04d82b5c6f14f9d0be7e3a4dff23685468cd9e6baa0ddcc"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/minecraft/textures/block/deepslate_copper_ore.png"
+hash = "854fe2bebba17d82345eab89155a220ebfdc67daf8720be4ae54f4021c93b7e0"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/minecraft/textures/block/lightning_rod.png"
+hash = "9f6224ca7a64cefdf417a627caf96aadb727d5ab9aeac93aae3d987d5b69a5d2"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/minecraft/textures/block/raw_copper_block.png"
+hash = "96954b214c78c19b98c78fe7690d7b418b6e40e623367e3f6a837a8764f29ef2"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/minecraft/textures/item/raw_copper.png"
+hash = "286935dec6dbb099bdef31932e540267b8335a71a9a6dffadee919dfbde7583f"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/minecraft/textures/item/spyglass.png"
+hash = "080bf59c54fa103b0ee4a48abb9c7602c31a6ba52dd4cf4d644268fb3cca7c2c"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/assets/minecraft/textures/item/spyglass_model.png"
+hash = "f16249118a6b51d449eff8bf88f6cc36f58bc812640489c9dc40f9d05b83752a"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/pack.mcmeta"
+hash = "176bb878cb198f0f0ead9675478d69526a2e6a5acbf8018f9eb374f718238f8f"
+
+[[files]]
+file = "config/openloader/resources/Created--Updated/pack.png"
+hash = "72381699060101cb6db039262bcea870956d77b81f6d3dbbfcb79755a771c718"
+
+[[files]]
 file = "config/openloader/resources/create-simple-storage.pw.toml"
 hash = "eb411cbbf0d840e98c869742194b74925183674db8e4d0a01151400e7b6252ab"
-metafile = true
-
-[[files]]
-file = "config/openloader/resources/created-updated.pw.toml"
-hash = "2628d1853edbcff3ce7a9affc065ed7bb3b3627288455c6f46a6e530ae408e52"
-metafile = true
-
-[[files]]
-file = "config/openloader/resources/redstone-pen-revamped.pw.toml"
-hash = "e649258f1d08f9008566b049070f440a878ce60c051105b0877153c4c6e1fbf4"
 metafile = true
 
 [[files]]
@@ -3784,6 +4438,11 @@ metafile = true
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
 hash = "7863c6ff5c8ee607d67b7f8065904f99a81903f983adc7dca35184e760358993"
+metafile = true
+
+[[files]]
+file = "mods/sooty-chimneys.pw.toml"
+hash = "290e1a9e14d8285fea1860e130f259367cd37cb31f826178b8c327da62b33175"
 metafile = true
 
 [[files]]
