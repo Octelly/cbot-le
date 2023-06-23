@@ -1,13 +1,13 @@
 name = "Sooty Chimneys"
-filename = "sootychimneys-1.18.2-1.1.1.jar"
+filename = "sootychimneys-1.19.2-1.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/b3w1XM9H/versions/ZEvxeorp/sootychimneys-1.18.2-1.1.1.jar"
+url = "https://cdn.modrinth.com/data/b3w1XM9H/versions/FqEZl6qV/sootychimneys-1.19.2-1.1.0.jar"
 hash-format = "sha1"
-hash = "4f008fa6da4ac893a01f4dc461c7e393b06b0167"
+hash = "8dc277b9aeb1df15b446ce346c655a521fdd1fde"
 
 [update]
 [update.modrinth]
 mod-id = "b3w1XM9H"
-version = "ZEvxeorp"
+version = "FqEZl6qV"

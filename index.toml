@@ -4180,6 +4180,11 @@ hash = "be1db33a292458ca7b76f40bfd54600d74973ccaedc4394541e9f21d2e350319"
 metafile = true
 
 [[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "f9f6c2d11d1b24090fcfa896d4d8715338c05cf35030d86724352aa636eb3ec7"
+metafile = true
+
+[[files]]
 file = "mods/inventory-sorter.pw.toml"
 hash = "06c61b0bf001aa765b6468f4ece4aadab67c6da73515ae19d7bcc74b144fa92a"
 metafile = true
@@ -4446,7 +4451,7 @@ metafile = true
 
 [[files]]
 file = "mods/sooty-chimneys.pw.toml"
-hash = "0c57bc3b41e6c3e106305f7838aed72e48fa84adec2156691ca5d9661ed384f4"
+hash = "365a8c2e7a2b90f6ea7c5189223fd7bcedb60bc5e236439cb00d36274981ca90"
 metafile = true
 
 [[files]]
