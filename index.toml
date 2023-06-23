@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/static.yml"
-hash = "2f02b246e2ca98407a4a6fa877ea8962c4f1c3fbf4989fdb6e1f5c81661ff83e"
-
-[[files]]
 file = "background.png"
 hash = "e18f8520dd4433e05cdd5b71a8a5d500288de5d1c664f45aa06f1bd6758c7c63"
 
